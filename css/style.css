@@ -30,78 +30,46 @@
     border-radius: 50%;
     transform: scale(0.5);
     position: absolute;
-  
 }
 
 
-
-.red-box {
+.red {
     background-color: red;
 }
 
-.blue-box {
+.blue {
     background-color:blue;
 }
 
-.green-box {
+.green {
     background-color: green;
 }
 
-.yellow1-box {
+.yellow1 {
     background-color: rgb(255,255,1);
 }
 
-.black-box {
+.black {
     background-color: black;
 }
 
-.yellow2-box {
+.yellow2 {
     background-color: rgb(253,166,1);
 }
 
-.purple-box {
+.purple {
     background-color: purple;
 }
 
-.grey-box {
+.grey {
     background-color: grey;
 }
 
-.pink-box {
+.pink {
     background-color: pink;
 }
 
 
-
-.pink-circle {
-    background-color: pink;
-}
-.grey-circle {
-    background-color: grey;
-}
-
-.purple-circle {
-    background-color: purple;
-}
-.green-circle {
-    background-color: green;
-}
-
-.red-circle {
-    background-color: red;
-}
-.blue-circle {
-    background-color: blue;
-}
-.yellow2-circle {
-    background-color: rgb(253,166,1) ;
-}
-.yellow1-circle {
-    background-color: rgb(255,255,1) ;
-}
-.black-circle {
-    background-color: black;
-}
 
 
 
